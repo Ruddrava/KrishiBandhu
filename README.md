@@ -1,7 +1,7 @@
 
   # KrishiBandhu UI/UX Design
 
-  For The Farmers, By The Farmers
+  For The Farmers, Of The Farmers
 
   ## Running the code
 
